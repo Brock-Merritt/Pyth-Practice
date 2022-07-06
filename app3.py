@@ -5,6 +5,6 @@ print("sum: " + str(calculate))
 
 
 first = float(input("first number?" ))
-second = float(input ("second number?" ))
+second = float(input("second number?" ))
 calculate = first + float
 print("sum: " + str(calculate))
